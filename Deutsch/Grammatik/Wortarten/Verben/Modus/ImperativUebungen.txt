@@ -1,0 +1,40 @@
+_____in dein Zimmer! (Du, gehen)
+Geh
+_____aus dem Fenster! (Ihr, schauen)
+Schaut
+_____das! (Sie, lassen)
+Lassen Sie
+_____ohne mich! (Ihr, gehen)
+Geht
+_____mich zu nerven! (Du, aufhören)
+Hör auf
+_____dieses Buch fertig! (du, lesen)
+Lies
+_____ nicht nach 11 Uhr nach Hause! (Ihr, kommen)
+Kommt
+_____mit mir! (Sie, sprechen)
+Sprechen Sie
+_____das ja nicht! (Du, kaufen)
+Kauf
+_____mir! (Du, vertrauen)
+Vertrau
+_____das! (Ihr, lassen)
+Lasst
+_____zehn mal um das Haus! (Sie, rennen)
+Rennen Sie
+_____da hin! (du, fahren)
+Fahr
+_____Ferien! (Ihr, machen)
+Macht
+_____mir bitte mehr Zeit! (Sie, geben)
+Geben Sie
+_____eine gute Note! (Du, schreiben)
+Schreib
+_____mir das! (Du, geben)
+Gib
+_____dieses Geschenk an! (Ihr, nehmen)
+Nehmt
+_____doch mal! (Sie, schauen)
+Schauen Sie
+_____das bitte nach! (Ihr suchen)
+Sucht
